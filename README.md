@@ -4,7 +4,7 @@
 
 > Physarum (slime-mold) transport networks, simulated in real time in WebGL2. No frameworks, no dependencies, ~29 KB.
 
-🌱 **[Live demo →](#)** &nbsp;·&nbsp; type a seed, watch it grow, share the link.
+🌱 **[Live demo → mycelia-drab.vercel.app](https://mycelia-drab.vercel.app)** &nbsp;·&nbsp; type a seed, watch it grow, share the link.
 
 ---
 

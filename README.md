@@ -4,6 +4,20 @@
 
 > Physarum (slime-mold) transport networks, simulated in real time in WebGL2. No frameworks, no dependencies, ~29 KB.
 
+<p align="center">
+  <img src="docs/grow.gif" alt="One million agents self-organizing into a living network" width="100%">
+  <br>
+  <em>A colony assembling itself from a million agents — nothing but sense, steer, deposit.</em>
+</p>
+
+<p align="center">
+  <img src="docs/hero-abyss.jpg" alt="Three colonies as green, teal and lavender ribbons" width="32%">
+  <img src="docs/hero-cyan.jpg" alt="Teal and white maze-like ridges" width="32%">
+  <img src="docs/hero-ember.jpg" alt="Pink, gold and orange warm network" width="32%">
+  <br>
+  <em>Three seeds, three genomes. Every word grows a different creature.</em>
+</p>
+
 🌱 **[Live demo → mycelia-drab.vercel.app](https://mycelia-drab.vercel.app)** &nbsp;·&nbsp; type a seed, watch it grow, share the link.
 
 ---
